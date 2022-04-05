@@ -1,0 +1,38 @@
+.grid{
+	width: 500px;
+	height: 600px;
+	background-image: url("./img/1000_F_111519056_Cn0JmbDawAluNR0FcimzEMQg36OtiL7l.jpg");
+	/*background-color: yellow;*/
+	position: relative;
+	font-size: 200px;
+	text-align: center;
+}
+.doodler{
+	background-image: url("./img/2.jpg");
+	border-radius: 20px;
+	width: 60px;
+	height: 85px;
+
+	/*background-color: black;*/
+	position: absolute;
+}
+.platform{
+	background-image: url("./img/platform.jpg");
+	width: 85px;
+	height: 15px;
+	border-radius: 10px;
+	/*background-color: green;*/
+	position: absolute;
+}
+.apple{
+	width: 10px;
+	height: 10px;
+	border-radius: 5px;
+	background-color: red;
+}
+.fire{
+	width: 500px;
+	height: 50px;
+	background-image: url("./img/fire.jpg");
+	position: relative;
+}
